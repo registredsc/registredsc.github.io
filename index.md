@@ -26,7 +26,7 @@
 - Sport
 - Informatic
 
-**Bold** and _Italic_ and `Code` text
+ `Spring Registre H4X0R L0L` 
 
 [Link](https://discord.gg/ewY5pTFY2F) and ![Image]([src](https://tenor.com/view/test1-gif-24102285))
 ```
