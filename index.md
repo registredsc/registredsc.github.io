@@ -15,6 +15,7 @@
 -  Spring Owner & Developper
 -  Languages Main : HTML , CSS , JS , PY , PHP
 -  Languages Learn : Lua , C# , Synfony
+-  Duo w/ Tailsy
 
 
 ## Social Network : 
